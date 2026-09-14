@@ -116,8 +116,8 @@ function getCategoryName(category) {
     'honey': 'В меду',
     'candy': 'Конфеты',
     'mix': 'Смеси',
-    'hazelnut': 'Фундук'
-    'Pineapple': 'Ананас'
+    'hazelnut': 'Фундук',
+    'pineapple': 'Ананас',
     'cranberry': 'Клюква'
   };
   return names[category] || category;
@@ -139,8 +139,8 @@ function getCategoryEmoji(category) {
     'honey': '🍯',
     'candy': '🍬',
     'mix': '🥗',
-    'hazelnut': '🌰'
-    'Pineapple': '🍍'
+    'hazelnut': '🌰',
+    'pineapple': '🍍',
     'cranberry': '🧆'
   };
   return emojis[category] || '📦';
