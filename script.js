@@ -138,6 +138,7 @@ function getCategoryEmoji(category) {
     'snacks': '🍿',
     'honey': '🍯',
     'candy': '🍬',
+    'pineapple': '🍍',
     'mix': '🥗',
     'hazelnut': '🌰',
     'pineapple': '🍍',
